@@ -4,14 +4,14 @@ public class MainExtended {
         int myShoe = 38;
         double age = 35.5;
         char exclamationMark = '!';
-        boolean isHappy = true;
+        boolean isSnowing = true;
         String myGreetings = "Hello from FirstClass!";
         System.out.println(secondName);
         System.out.println(myShoe);
         System.out.println(age);
         System.out.println(myGreetings);
         System.out.println(exclamationMark);
-        System.out.println(isHappy);
+        System.out.println(isSnowing);
     }
 }
 
